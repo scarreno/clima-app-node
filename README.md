@@ -1,4 +1,4 @@
-## Aplicación de Clima - Curso NOD
+## Aplicación de Clima - Curso NODE
 
 Recuerden ejecutar ```npm install``` para las librerías
 
